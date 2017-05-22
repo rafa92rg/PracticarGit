@@ -1,1 +1,3 @@
 Nuevo archivo
+Nuevas lineas de codigo desde el remoto
+Nuevas linea tambien desde el remoto
