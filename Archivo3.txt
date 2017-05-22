@@ -1,2 +1,3 @@
 Se agrega este archivo para observar como funciona el stash
 Archivo 2 se guardo en el stash
+Se edita nuevamente este archivo para probar nuevamente el stash
